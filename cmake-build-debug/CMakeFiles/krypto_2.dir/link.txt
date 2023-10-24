@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\krypto_2.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\ar.exe qc CMakeFiles\krypto_2.dir/objects.a @CMakeFiles\krypto_2.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\krypto_2.dir/objects.a -Wl,--no-whole-archive -o krypto_2.exe -Wl,--out-implib,libkrypto_2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\krypto_2.dir\linkLibs.rsp
